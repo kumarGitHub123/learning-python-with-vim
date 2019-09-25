@@ -1,6 +1,0 @@
-# Tuple is like array in C#
-
-numbers = (1, 2, 3)
-print(numbers.count())
-print(numbers.index(2))
-

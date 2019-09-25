@@ -1,5 +1,0 @@
-numbers = [1, 9, 2, 8, 3, 7, 4, 6, 5]
-highest = max(numbers)
-print(highest)
-
-
